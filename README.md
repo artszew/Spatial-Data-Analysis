@@ -6,6 +6,7 @@
 - There must be an interstate highway within 20 miles of the city, and a recreational area within 10 miles of the city.
 
 <b> Exercise 2 - creating a static map illustrating changes in population density in Europe between 2014 and 2017 using Jupyter Notebook.</b>
+- Place data on countries and population density on the map, select a color map, adjust the geographic coordinates so that the map presents primarily European countries, ensure the readability and clarity of the map, place information about the data source in the lower left corner of the graph.
 
 <b> Exercise 3 - creating an interactive map showing where the common raven can be seen in Finland in 2021 using Jupyter Notebook.</b>
 - The first layer contains markers with a tooltip with the date of observation.
