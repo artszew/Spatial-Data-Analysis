@@ -20,6 +20,8 @@
 - The project includes the analysis of statistics on the researched topic and various types of spatial data analyses - static and interactive maps.
 - The research results are presented in a clear, transparent and visually attractive way.
 
+<br>
+
 [PL]
 
 # Analiza danych przestrzennych
