@@ -7,7 +7,7 @@
 - Place data on countries and population density on the map, select a color map, adjust the geographic coordinates so that the map presents primarily European countries, ensure the readability and clarity of the map, place information about the data source in the lower left corner of the graph.
 - Save the map to a file in PNG format.
 
-  [PL]
+[PL]
 
 <b> Ćwiczenie 2 — tworzenie statycznej mapy ilustrującej zmiany gęstości zaludnienia w Europie w latach 2014–2017 przy użyciu Jupyter Notebook według poniższych wytycznych.</b>
 - Umieszczenie danych dotyczących krajów i gęstości zaludnienia na mapie, wybrać mapę kolorową, dostosować współrzędne geograficzne tak, aby mapa przedstawiała przede wszystkim kraje europejskie, zapewnienie czytelności i przejrzystości mapy, umieszczenie informacji o źródle danych w lewym dolnym rogu wykresu.
