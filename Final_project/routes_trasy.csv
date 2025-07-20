@@ -1,0 +1,18 @@
+nr,Kierunek,Dlugosc,Liczba przystankow
+1,Marcinkowskiego Marulewska,8.8,19
+1,Marcinkowskiego Dworzec PKP,8.9,19
+3,Szpital Matwy,6.8,15
+3,Szpital Dworzec PKP,7,14
+4,Lokietka Matwy,10.8,21
+4,Szymborze Dworzec PKP,10.8,21
+10,Solanki-Os. Rabin Torunska,17.5,40
+10,Marulewska Os. Rabin-Dworzec PKP,18.7,36
+12,Krzywoustego Matwy,10.7,22
+12,Lokietka Torunska,8.9,14
+16,Os. Rabin-Matwy,9.3,23
+16,Os. Rabin Dworzec PKP,10.1,21
+21,Os. Rabin Lokietka,9.2,23
+21,Szpital-Os. Rabin Dworzec PKP,9.4,24
+27,Kopernika Os. Rabin,16.4,31
+28,Glempa Os. Rabin-Zec,7.7,14
+28,Glempa Dworzec PKP,8.8,16

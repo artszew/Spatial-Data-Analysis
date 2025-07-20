@@ -1,0 +1,144 @@
+Numer przystanku;Nazwa;lat;long;Nr linii;Kierunek ruchu
+1;Dworzec PKP 1 ;52.80601;18.24487;3, 4, ;Poczattkowy-Miasto
+2;Dworzec PKP  2;52.80574;18.24475;1,10,16,21;Poczatkowy-Miasto
+4;Dworcowa  Grabskiego - kier. Kopernika;52.80477;18.24810;1,3,4,16,21;Kopernika
+5;Kopernika Wawrzyniaka - kier. Narutowicza;52.80149;18.25036;1,3,4,10,16,21,27,28 ;Narutowicza
+6;Kopernika Narutowicza - kier. Ratuszowa;52.79900;18.24901;1,3,4,10,16,21,27,28 ;Ratuszowa
+7;Ratuszowa Solankowa - kier. Niepodleglosci;52.79559;18.24959;16,21,27;Niepodleglosci
+8;Niepodleglosci Swietokrzyska  - kier. Miechowicka;52.79185;18.25047;10,16,21,27;Miechowicka
+9;Niepodleglosci Krzyminskiego - kier. Miechowicka;52.78832;18.25141;10,16,21,27;Miechowicka
+10;Wojska Polskiego Niepodleglosci - kier. 800-lecia;52.78574;18.25193;10,16,20,21,28;800-lecia
+11;Wojska Polskiego Pilsudskiego - kier. 800-lecia ;52.78417;18.24730;10,16,20,21,28;800-lecia
+12;Wojska Polskiego Popieluszki - kier. 800-lecia;52.77996;18.24051;10,16,20,21,28;800-lecia
+14;Wojska Polskiego Arctowskiego - kier. 800-lecia;52.77528;18.24125;10,16,21,28;800-lecia
+15;800 - lecia  Wojska Polskiego - kier. 59 Pulku Piechoty;52.77330;18.24231;10,16,21,28;59 Pulku Piechoty
+16;800 - lecia  59 Pulku Piechoty - kier. Niepodleglosci;52.77307;18.24819;10,16,20,21,28;Niepodleglosci
+17;800 - lecia  Niepodleglosci - kier. Wojska Polskiego;52.77314;18.24843;10,16,21,27,28;Wojska Polskiego
+18;800 - lecia  Alejnika - kier. Woj. Polskiego ;52.77331;18.24380;10,16,21,27,28;Wojska Polskiego
+19;Wojska Polskiego  Plater - kier. Niepodleglosci;52.77645;18.24133;10,16,21,27,28;Niepodleglooci
+20;Wojska Polskiego Szarych Szeregow 2- kier. Niepodleglosci;52.78125;18.24129;10,16,21,27,28;Niepodleglooci
+21;Wojska Polskiego Kusocinskiego - kier. Niepodleglosci;52.78451;18.24971;10,16,21,27,28;Niepodleglosci
+22;Niepodleglosci Zapadle  - kier. Ratuszowa;52.78681;18.25293;10,16,21,27;Ratuszowa
+23;Niepodleglosci Krzyminskiego 2 - kier. Ratuszowa;52.78952;18.25134;10,16,21,27;Ratuszowa
+24;Ratuszowa  Solankowa 2 - kier. Narutowicza;52.79573;18.24993;16,21,27;Narutowicza
+25;Kopernika Narutowicza 2- kier. Dworcowa;52.79849;18.24941;1,3,4,10,16,21,27,28 ;Dworcowa
+26;Kopernika Dworcowa - kier. Dworcowa;52.80135;18.25077;1,3,4,10,16,21,27,28 ;Dworcowa
+27;Dworcowa Kopernika - kier. PKP;52.80257;18.25112;27;PKP
+28;Dworcowa Metalowcow - kier. PKP;52.80482;18.24851;1,3,4,16,21,28;PKP
+29;Szklarska - dla wysiadajacych kier. PKP;52.80727;18.24613;1,3,4,10,16,21,28;PKP
+31;Narutowicza Grodzka - kier. Staszica;52.79740;18.25403;1,3,4,28;Staszica
+32;Wojska Polskiego kosciol kier. 800-lecia     ;52.78232;18.24184;10,16,21,28;800-lecia   
+33;Staszica  Narutowicza - kier. Poznanska;52.79840;18.25428;1,10,21;Poznanska
+34;Staszica Swietokrzyska - kier. Poznanska;52.79178;18.25778;3,10,12,21,28;Poznanska
+35;Poznanska Miechowicka - kier. Matwy ;52.78075;18.25977;3,12,21; Matwy
+36;Poznanska Wspolna - kier. Matwy ;52.77314;18.25876;3,12,16;Matwy
+37;Poznanska Przybyszewskiego - kier. Matwy ;52.76790;18.25799;3,12,16;Matwy
+38;Poznanska Skryta - kier.  Matwy ;52.76231;18.25712;3,4,12,16;Matwy
+39;Poznanska Chemiczna - kier. Matwy;52.75710;18.25649;3,4,12,16;Matwy
+40;Matwy petla 1;52.75319;18.25672;3,16;Poczatkowy-Miasto
+41;Matwy petla 2;52.75314;18.25655;4,12;Poczatkowy-Miasto
+43;Matewska cmentarz  - kier. Wielkopolska ;52.75281;18.26357;12;Wielkopolska 
+45;Matewska Starostwo Powiatowe - kier. Poznanska ;52.75279;18.26282;12;Poznanska 
+46;Poznanska Polna - kier. Staszica;52.76167;18.25739;3,4,12,16;Staszica
+47;Poznanska Wiadukt - kier. Staszica ;52.76800;18.25826;3,12,16;Staszica
+48;Poznanska Nowa - kier. Staszica;52.77382;18.25911;3,12,16;Staszica
+49;Poznanska Szpital - kier. Staszica;52.78163;18.26023;3,12,21;Staszica
+50;Staszica Kosciol - kier. Dworcowa;52.79312;18.25804;3,4,10;Dworcowa
+51;Staszica 6-go Stycznia - kier. Dworcowa;52.79599;18.25579;3,4,10;Dworcowa
+53;Dworcowa Kasprowicza - kier. Laubitza;52.80095;18.25313;27;Laubitza
+55;Jacewska Torunska - kier. Dzialowa;52.79975;18.26530;1,12,27 ;Dzialowa
+56;Sw. Ducha Dzialowa - kier. Krzywoustego;52.79634;18.27507;12,27;Krzywoustego
+57;Dluga Sw. Ducha - kier Jacewska;52.79587;18.28147;1;Jacewska
+60;Sw. Ducha Dluga kier. Krzywoustego;52.79567;18.28096;1,12;Krzywoustego
+61;Krzywoustego Sw. Ducha  - kier. Jagiellonska;52.79480;18.27681;12,27;Jagiellonska
+62;Krzywoustego Jagiellonska kier. Ziarniaka;52.79229;18.27737;12,27;Ziarniaka
+63;Krzywoustego Czarnieckiego - kier. Sw. Ducha;52.79373;18.27723;12,27;Sw. Ducha
+64;Sw. Ducha Glinki - kier. Jacewska;52.79642;18.27575;1,12,27;Jacewska
+65;Jacewska Os. Torunskie kier. Torunska;52.79894;18.26824;1,12,27 ;Torunska
+66;Torunska Jacewska kier. Torun;52.80133;18.26669;10,12;Torunska
+67;Torunska Curie-Sklodowskiej - kier. Torun;52.80489;18.27171;10,12;Torunska
+68;Torunska petla;52.80786;18.27562;10,12;Poczatkowy-Miasto
+70;Torunska Mlynska - kier. Laubitza;52.80331;18.26920;10,12;Laubitza
+71;Laubitza Orlowska - kier. Dworcowa;52.79982;18.26285;1,10,27 ;Dworcowa
+74;Swietokrzyska Poznanska - kier. Marulewska;52.79289;18.26114;4,10,12,21;Marulewska
+75;Swietokrzyska Poznanska - kier. Staszica;52.79293;18.26077;4,10,12,21;Staszica
+76;Cegielna Marulewska kier. Lokietka ;52.79290;18.26634;1,4,12,21 ;Lokietka 
+77;Cegielna Lokietka - kier. Marulewska;52.79298;18.26621;1,4,12,21 ;Marulewska
+78;Cegielna Sw. Ducha - kier. Marulewska;52.79569;18.26915;1,12;Marulewska
+79;Cegielna Mieszka I  - kier. Sw. Ducha;52.79568;18.26947;1,12;Sw. Ducha
+80;Lokietka poczatkowy;52.79392;18.27135;1,4,12,21;Poczatkowy-Miasto
+81;Szymborska Gornicza - kier. Szymborze;52.79093;18.26470;4,1;Szymborze
+82;Szymborska Batorego - kier. Marulewska;52.79106;18.26489;4,10;Marulewska
+83;Szymborska Gronowa - kier. Szymborze;52.78469;18.26779;4,10;Szymborze
+84;Szymborska Chrobrego - kier. Marulewska;52.78544;18.26761;4,10;Marulewska
+85;Szymborska Miechowicka - kier. Szymborze ;52.77769;18.27265;4,12;Szymborze
+86;Szymborska Miechowicka - kier. Marulewska ;52.77872;18.27237;4,10,12;Marulewska
+89;Szymborska Transportowca  - kier. Szymborze;52.77069;18.27555;4,12;Szymborze
+90;Szymborska Transportowca - kier. Marulewska;52.77080;18.27584;4,12;Marulewska
+91;Szymborska Reymonta - kier. Szymborze ;52.76812;18.27624;4,12;Szymborze
+92;Szymborska Reymonta - kier. Marulewska ;52.76800;18.27674;4,12; Marulewska
+93;Przybyszewskiego Wielkopolska - kier. Poznanska ;52.76553;18.27554;4;Poznanska 
+95;Przybyszewskiego Kolejowa- kier. Poznanska;52.76532;18.26667;4;Poznanska 
+96;Przybyszewskiego Kolejowa - kier. Szymborska;52.76517;18.26634;4;Szymborska
+97;Marulewska Jagielly kier. Cegielna;52.79156;18.26823;1, 10;Cegielna
+99;Lokietka pawilon handlowy;52.79427;18.27283;1,2;Poczatkowy-Miasto
+137;Szosa Bydgoska dzialki;52.81740;18.23366;16,21;Poczatkowy-Miasto
+140;Osiedle Bydgoskie - kier. Slawecinek i PKP;52.81165;18.23952;16,21;Slawocinek i PKP
+141;Narutowicza Konopnickiej - kier. Magazynowa;52.79786;18.24721;10;Magazynowa
+142;Narutowicza Konopnickiej - kier. Kopernika;52.79776;18.24685;10;Kopernika
+144;Narutowicza Powstancow - kier. Kopernika ;52.79721;18.24086;10;Kopernika
+145;Narutowicza Boczna - kier. Teznie;52.79702;18.23758;10;Teznie
+157;Marulewska Sobieskiego - kier. cmentarz;52.79124;18.26852;1, 10;cmentarz
+158;Marulewska Kasztanowa - kier. cmentarz;52.78998;18.27194;1, 10 ;cmentarz
+159;Marulewska Lipowa - kier. Cegielna;52.78977;18.27260;1, 10;Cegielna
+160;Marulewska petla;52.78757;18.27782;1, 10;Poczatkowy-Miasto
+163;Niepodleglosci Wojska Polskiego - kier. Miechowicka;52.78499;18.25320;27;Poczatkowy-Miasto
+164;Niepodleglosci Kusocinskiego - kier. 800-lecia;52.78110;18.25515;27;800-lecia
+165;Niepodleglosci Miechowicka - kier. Ratuszowa;52.78074;18.25574;21;Ratuszowa
+166;Miechowicka Niepodleglosci - kier. Poznanska;52.77948;18.25746;10,16,21;Poznanska
+167;Miechowicka Poznanska - kier. Niepodleglosci.;52.77951;18.25869;10,16,21;Niepodleglosci.
+168;Ratuszowa Swietokrzyska - kier. Narutowicza;52.79310;18.25051;16,21,27;Narutowicza
+170;Glempa Staszica 0 kier. Woj. Polskiego;52.78806;18.26023;28;Woj. Polskiego
+171;Poznanska Mackowskiego;52.75409;18.25607;;Koncowy
+172;Dworzec PKP koncowy ;52.80644;18.24474;1,3,4,10,16,21;Koncowy
+176;Marcinkowskiego Cmentarna - kier. Kasprowicza;52.80551;18.25886;1,10;Kasprowicza
+177;Marcinkowskiego Mlynska-kier. Metalowcow;52.80432;18.25924;1, 10;Metalowcow
+182;Niepodleglosci Milosza-kier. Miechowicka;52.77638;18.25423;10,16,21;Miechowicka
+183;Niepodleglosci  Blazka - kier. 800-lecia;52.77494;18.25342;10,16,21,27;800-lecia
+184;Wilkonskiego Solankowa - kier. Swietokrzyska;52.79418;18.24393;10;Swietokrzyska
+185;Wilkonskiego Swietokrzyska - kier. Narutowicza;52.79365;18.24406;10;Narutowicza
+187;Poznanska Gwarkow - kier. Matwy;52.78325;18.26016;3,12,21;Matwy
+189;Jacewska Dluga - kier. Torunska;52.79706;18.28128;1;Torunska
+190;Lokietka koncowy;52.79396;18.27253;21;Koncowy
+191;Jacewska Glinki - kier. Dluga;52.79710;18.27935;1,12;Dluga
+192;Niepodleglosci  800-lecia - kier. Miechowicka;52.77265;18.25193;10,16,21;Miechowicka
+193;Dworcowa Laubitza - kier. PKP;52.80003;18.25528;27;PKP
+194;Laubitza Dworcowa - kier. Torunska ;52.79939;18.25725;1,10,27;Torunska 
+196;Poznanska Gornicza  - kier. Staszica ;52.78853;18.26052;3,12,21;Staszica 
+197;Poznanska Staszica - kier. Matwy;52.78771;18.26071;3,12,21;Matwy
+198;Gornicza Poznanska - kier. Szymborska;52.78816;18.26175;10;Szymborska
+200;Szybowcowa Szenica kier. Torunska;52.80688;18.27015;10;Torunska
+211;Deszczowa Torowa ZEC  ;52.76894;18.23707;28;PKP
+214;Swietokrzyska Wierzbinskiego kier. Wilkonskiego;52.79264;18.24898;10;Wilkonskiego
+215;Wilkonskiego Sienkiewicza - kier. Swietokrzyska;52.79642;18.24293;10;Swietokrzyska
+216;Wilkonskiego  Narutowicza - kier. Narutowicza;52.79623;18.24310;10;Narutowicza
+226;Metalowcow Libelta kier. Marcinkowskiego;52.80710;18.25155;1,10;Marcinkowskiego
+227;Metalowcow Libelta kier. Dworcowa;52.80673;18.25041;1, 10;Dworcowa
+228;Marcinkowskiego Metalowcow kier. Dworcowa;52.80857;18.25757;1,10;Dworcowa
+229;Marcinkowskiego Metalowcow 2 kier. Kasprowicza;52.80768;18.25778;1, 10;Kasprowicza
+235;Staropoznanska  Budowlana kier. 800-lecia;52.76918;18.25197;28;800-lecia
+236;Staropoznanska  Budowlana kier. Popowicka;52.76872;18.25169;28;Popowicka
+238;Przybyszewskiego Pogodna kier. Poznanska;52.76616;18.25916;4;Poznanska
+239;Przybyszewskiego Pogodna  kier. Szymborska;52.76608;18.25868;4;Szymborska
+245;Wielkopolska Przybyszewskiego kier. Matewska;52.76528;18.27672;12;Matewska
+246;Wielkopolska Dybalskiego kier. Szymborska;52.76517;18.27728;4,12;Szymborska
+247;Wielkopolska Matewska kier. Matewska;52.75413;18.28455;12;Matewska
+248;Wielkopolska Matewska 2 kier. Szymborska;52.75414;18.28484;12;Szymborska
+249;Matewska Wiejska kier. Poznanska;52.75310;18.27325;12;Poznanska
+250;Matewska Pokojowa kier. Wielkopolska;52.75299;18.27329;12;Wielkopolska
+251;Miechowicka dzialki kier. Szymborska;52.77888;18.26467;10,12;Szymborska
+252;Miechowicka szpital kier. Poznanska;52.77897;18.26442;10;Poznanska
+253;Wielkopolska cmentarz kier. Matewska;52.76145;18.28016;12;Matewska
+254;Wielkopolska cmentarz  kier. Szymborska;52.76168;18.28034;12;Szymborska
+255;Ziarniaka kier. Czarnieckiego;52.79245;18.27487;12;Koncowy
+169;Glempa Niepodleglosci;52.78604;18.25446;28;Poznanska
