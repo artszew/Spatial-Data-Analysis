@@ -11,3 +11,5 @@
 - Powiat musi mieć ponad 500 gospodarstw mleczarskich, siłę roboczą co najmniej 25 000 osób (w wieku 18-64 lat) i gęstość zaludnienia mniejszą niż 150 osób na milę kwadratową,
 - Miasto musi mieć wskaźnik przestępczości mniejszy lub równy 0,02 i uniwersytet,
 - W promieniu 20 mil od miasta musi znajdować się autostrada międzystanowa, a w promieniu 10 mil od miasta musi znajdować się teren rekreacyjny.
+
+![first_page](./Map_QGIS.png)
