@@ -15,7 +15,7 @@
 - The second layer contains a heat map of the number of birds observed.
 - The third layer contains grouped markers with a description of the observer type and the number of birds observed, with different colored icons depending on the observer type, and different icons depending on whether one or more birds were observed.
 
-<b> Project - finding locations for 5 new bus stops in Inowrocław city using Jupyter Notebook. </b>
+<b> Final project - finding locations for 5 new bus stops in Inowrocław city using Jupyter Notebook. </b>
 - This project responds to a hypothetical problem of the city authorities.
 - The project includes the analysis of statistics on the researched topic and various types of spatial data analyses - static and interactive maps.
 - The research results are presented in a clear, transparent and visually attractive way.
@@ -39,7 +39,7 @@
 - Druga warstwa ma zawierać mapę cieplną liczby zaobserwowanych ptaków.
 - Trzecia warstwa ma zawierać zgrupowane znaczniki z opisem typu obserwatora i liczby zaobserwowanych ptaków, z różnymi kolorowymi ikonami w zależności od typu obserwatora i różnymi ikonami w zależności od tego, czy zaobserwowano jednego czy więcej ptaków.
 
-<b> Projekt - znalezienie lokalizacji dla 5 nowych przystanków autobusowych w mieście Inowrocław przy użyciu Jupyter Notebook. </b>
+<b> Projekt końcowy - znalezienie lokalizacji dla 5 nowych przystanków autobusowych w mieście Inowrocław przy użyciu Jupyter Notebook. </b>
 - Projekt ten odpowiada na hipotetyczny problem władz miasta.
 - Projekt obejmuje analizę statystyk dotyczących badanego tematu oraz różnego rodzaju analizy danych przestrzennych - mapy statyczne i interaktywne.
 - Wyniki badań są prezentowane w sposób czytelny, przejrzysty i atrakcyjny wizualnie.
