@@ -11,3 +11,6 @@
 
 <b> Ćwiczenie 2 — tworzenie statycznej mapy ilustrującej zmiany gęstości zaludnienia w Europie w latach 2014–2017 przy użyciu Jupyter Notebook według poniższych wytycznych.</b>
 - Umieszczenie danych dotyczących krajów i gęstości zaludnienia na mapie, wybrać mapę kolorową, dostosować współrzędne geograficzne tak, aby mapa przedstawiała przede wszystkim kraje europejskie, zapewnienie czytelności i przejrzystości mapy, umieszczenie informacji o źródle danych w lewym dolnym rogu wykresu.
+
+Map.png:
+![map](./Exercise_2_map.png)
