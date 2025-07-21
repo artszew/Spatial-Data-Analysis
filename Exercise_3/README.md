@@ -1,6 +1,9 @@
 [EN]
 _______
 <b> Exercise 3 - creating an interactive map showing where the common raven can be seen in Finland in 2021 using Jupyter Notebook.</b>
+
+Instead of opening Notebook in GitHub use nbviewer: https://nbviewer.org/github/artszew/Spatial-Data-Analysis/blob/main/Exercise_3/Exercise_3.ipynb
+
 - The first layer contains markers with a tooltip with the date of observation.
 ![Layer_1](./Layer_1.png)
 - The second layer contains a heat map of the number of birds observed.
@@ -11,6 +14,9 @@ _______
 [PL]
 ________
 <b> Ćwiczenie 3 — stworzenie interaktywnej mapy pokazującej, gdzie w Finlandii w 2021 r. zaobserwowano kruka zwyczajnego, przy użyciu Jupyter Notebook i według poniższych wytycznych.</b>
+
+Zamiast wyświetlać Jupyter Notebook w GitHubie, należy skorzystać z nbviewera: https://nbviewer.org/github/artszew/Spatial-Data-Analysis/blob/main/Exercise_3/Exercise_3.ipynb
+
 - Pierwsza warstwa ma zawierać znaczniki z etykietą narzędzia z datą obserwacji.
 ![Layer_1](./Layer_1.png)
 - Druga warstwa ma zawierać mapę cieplną liczby zaobserwowanych ptaków.
